@@ -1,0 +1,14 @@
+{
+  "name": "pixel-node-ticket-bot",
+  "version": "1.0.0",
+  "description": "Premium Pixel Node ticket bot (select menu) - preconfigured .env (TOKEN blank)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.0.3"
+  }
+}
